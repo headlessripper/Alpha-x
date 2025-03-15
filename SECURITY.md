@@ -22,7 +22,7 @@ We take security vulnerabilities seriously and encourage responsible disclosure.
 * Any possible mitigations
 1 Do not disclose publicly until we have assessed and patched the vulnerability.
 ***
-##Response Timeline
+## Response Timeline
 * Acknowledgment: Within 48 hours
 * Investigation & Validation: 5-7 business days
 * Patch Release (if applicable): Within 14-30 days, depending on severity
@@ -30,7 +30,7 @@ We take security vulnerabilities seriously and encourage responsible disclosure.
 
 ***
 
-##Security Best Practices for Users
+## Security Best Practices for Users
 To ensure the security of your system while using Alpha-X, we recommend:
 * ✅ Keeping your software up to date
 * ✅ Downloading Alpha-X only from official sources
