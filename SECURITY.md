@@ -16,10 +16,10 @@ We take security vulnerabilities seriously and encourage responsible disclosure.
 ## How to Report
 1 Email us at: alphaaidx@gmail.com with the subject line "Security Vulnerability Report".
 1 Provide details about the vulnerability, including:
-*Steps to reproduce the issue
-*Potential security impact
-*Affected version(s)
-*Any possible mitigations
+* Steps to reproduce the issue
+* Potential security impact
+* Affected version(s)
+* Any possible mitigations
 1 Do not disclose publicly until we have assessed and patched the vulnerability.
 ***
 ##Response Timeline
