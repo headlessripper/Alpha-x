@@ -18,7 +18,6 @@ Features
 * Information Retrieval: Get instant answers to your questions or find relevant resources.
 * Scheduling: Manage your calendar by setting reminders and scheduling events.
 * Integration: Connect with various applications and services for a seamless workflow.
-* 
 ***
 
 Getting Started
