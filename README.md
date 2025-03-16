@@ -33,8 +33,8 @@ Install dependencies:
 ***
 Usage
 * Ask Questions: Type or speak your questions for instant responses.
-*Manage Tasks: Use commands like “add a task” or “show my tasks” to interact with the task manager.
-*Schedule Events: Request Alpha to schedule events by providing the date and time.
+* Manage Tasks: Use commands like “add a task” or “show my tasks” to interact with the task manager.
+* Schedule Events: Request Alpha to schedule events by providing the date and time.
 ***
 Support
 For any issues or questions, please open an issue in the repository or contact support at alphaaidx@gmail.com.
