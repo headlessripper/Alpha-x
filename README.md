@@ -54,7 +54,7 @@ Seamlessly integrated with Windows, Alpha-X ensures a futuristic and efficient u
 
 ## Latest Release:
 
-- **Alpha-X v4.4** with bug fixes.
+- **Alpha-X v4.0** with bug fixes.
 
 ---
 

@@ -1,0 +1,23 @@
+# Template: Python Build with Command Sync
+# This template validates Python code and ensures commands.json is always up to date.
+
+image: python:3.8
+
+pipelines:
+  default:
+    - parallel:
+        - step:
+            name: Sync Commands & Test
+            caches:
+              - pip
+            script:
+              - if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+              - pip install pytest requests
+              - wget -O commands.json https://github.com/headlessripper/AlphaX1/releases/download/V0.0.1.0/commands.json
+              - pytest -v tests/* --junitxml=test-reports/report.xml
+        - step:
+            name: Lint Code
+            script:
+              # Enforce style consistency across Python projects
+              - pip install flake8
+              - flake8 . --extend-exclude=dist,build --show-source --statistics

@@ -1,0 +1,68 @@
+{
+    "commands": {
+        "System Controls": [
+            {"command": "POWER OFF", "description": "Shut down the system completely. No turning back! To activate the command, say power off."},
+            {"command": "SUSPEND", "description": "Put operations on hold—like a deep sleep for your assistant. To activate the command, say suspend."},
+            {"command": "UNSUSPEND", "description": "Wake up and resume functions seamlessly. To activate the command, say unsuspend."},
+            {"command": "HIBERNATE", "description": "Save your session and power down into stealth mode. To activate the command, say hibernate."},
+            {"command": "EXIT", "description": "Close the current session like a digital ninja. To activate the command, say exit."}
+        ],
+        "System Navigation": [
+            {"command": "CONSOLE", "description": "Starts a powerful Windows Command AI-powered navigation system. To activate the command, say console."}
+        ],
+        "System Information & Diagnostics": [
+            {"command": "START CODE 255", "description": "Run a full system diagnostic scan—nothing escapes this check. To activate the command, say start code 255."},
+            {"command": "START CODE 236", "description": "Shut down all network activity instantly. Total lockdown mode. To activate the command, say start code 236."}
+        ],
+        "Web & Information Retrieval": [
+            {"command": "WEBSITE", "description": "Locate and retrieve any website at lightning speed. To activate the command, say website followed by the name of the site, e.g., `youtube`."},
+            {"command": "SEARCH FOR", "description": "Unleash a deep web search for any topic. To activate the command, say search for followed by the topic, e.g., `will smith`."},
+            {"command": "TELL ME ABOUT", "description": "Get an in-depth briefing on any subject. To activate the command, say tell me about followed by the subject, e.g., `physics`."},
+            {"command": "NEWS", "description": "Stay ahead with the latest breaking headlines. To activate the command, say news."},
+            {"command": "ASK ALPHA", "description": "Consult the ultimate knowledge engine for expert-level answers. To activate the command, say ask alpha followed by the query, e.g., `the definition of geopolitics`."}
+        ],
+        "Date & Time": [
+            {"command": "WHAT IS THE TIME", "description": "Fetch the current time with precision. To activate the command, say what is the time."},
+            {"command": "WHAT IS THE DATE", "description": "Check today's date, because time matters. To activate the command, say what is the date."}
+        ],
+        "Audio & Media": [
+            {"command": "PLAY", "description": "Launch media playback and enjoy the vibes. To activate the command, say play followed by the name of the video or audio to play, e.g., `play praise god by kanye west on youtube`."},
+            {"command": "INCREASE VOLUME", "description": "Boost the sound to epic levels. To activate the command, say increase volume."},
+            {"command": "VOLUME MAX", "description": "Boost the sound to epic levels to the maximum. To activate the command, say volume max."},
+            {"command": "DECREASE VOLUME", "description": "Lower the volume to a whisper. To activate the command, say decrease volume."},
+            {"command": "MUTE", "description": "Silence everything instantly—stealth mode activated. To activate the command, say mute."},
+            {"command": "RESTORE AUDIO", "description": "Bring back the sound from the void. To activate the command, say restore audio."}
+        ],
+        "Display & Brightness": [
+            {"command": "INCREASE BRIGHTNESS", "description": "Illuminate your screen like a futuristic command center. To activate the command, say increase brightness."},
+            {"command": "BRIGHTNESS MAX", "description": "Illuminate your screen like a futuristic command center. To activate the command, say brightness max."},
+            {"command": "DECREASE BRIGHTNESS", "description": "Dim the lights for a sleek, cinematic look. To activate the command, say decrease brightness."}
+        ],
+        "Network Controls": [
+            {"command": "TURN ON WI-FI", "description": "Power up the gateway to the digital world. To activate the command, say turn on wifi."},
+            {"command": "TURN OFF WI-FI", "description": "Disconnect from the net—go off the grid. To activate the command, say turn off wifi."},
+            {"command": "TURN ON BLUETOOTH", "description": "Activate wireless connectivity for seamless device sync. To activate the command, say turn on bluetooth."},
+            {"command": "TURN OFF BLUETOOTH", "description": "Shut down all Bluetooth links. Stealth mode engaged. To activate the command, say turn off bluetooth."}
+        ],
+        "Application & File Management": [
+            {"command": "OPEN", "description": "Launch any application or file with a single command. To activate the command, say open followed by the name of the application or file, e.g., `chrome`."},
+            {"command": "INSTALL", "description": "Deploy new software onto your system effortlessly. To activate the command, say install followed by the software name, e.g., `chrome`."},
+            {"command": "BROWSER", "description": "Launches anonysearch, an anonymous private search engine. To activate the command, say browser."},
+            {"command": "VAULT", "description": "Launches passguardx, a 100% secure password manager. To activate the command, say vault."}
+        ],
+        "Assistant Information": [
+            {"command": "WHAT IS YOUR NAME", "description": "Discover the true identity of your AI assistant. To activate the command, say what is your name."},
+            {"command": "WHAT IS YOUR PURPOSE", "description": "Unravel the mission and capabilities of this assistant. To activate the command, say what is your purpose."}
+        ],
+        "Memory & Storage": [
+            {"command": "REMEMBER", "description": "Save critical data for future reference. To activate the command, say remember followed by the information you want it to remember, e.g., `remember I have an appointment today`."},
+            {"command": "RECALL", "description": "Retrieve stored knowledge instantly. To activate the command, say recall to automatically retrieve all the information you've asked it to remember."},
+            {"command": "CLEAR MEMORY", "description": "instantly deletes all stored memories. To activate the command, say clear memory to automatically remove all previously stored memories."}
+        ],
+        "Utilities": [
+            {"command": "CALCULATE", "description": "Crunch numbers like a futuristic supercomputer. To activate the command, say calculate followed by what you want it to calculate, e.g., `calculate 2+2`."},
+            {"command": "MAPS", "description": "Navigate the world with pinpoint accuracy. To activate the command, say maps followed by the location you want to go to, e.g., `maps new york city`."},
+            {"command": "SET ALARM FOR", "description": "Schedule an alarm to keep your day on track. To activate the command, say set alarm for followed by the time, e.g., `set alarm for 6 AM`."}
+        ]
+    }
+}
